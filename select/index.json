@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "バードメン –Remastered–",
+  "base_artist": "THEE MICHELLE GUN ELEPHANT",
+  "createdAt": "2025-12-01T23:36:53.632953Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "バードメン",
+      "artist": "THEE MICHELLE GUN ELEPHANT",
+      "has_synced": true,
+      "path": "select/01_バードメン_THEE_MICHELLE_GUN_ELEPHANT.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バードメン",
+      "artist": "thee michelle gun elephant",
+      "has_synced": false,
+      "path": "select/pl_01_バードメン_thee_michelle_gun_elephant.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "The Birdmen",
+      "artist": "thee michelle gun elephant",
+      "has_synced": false,
+      "path": "select/pl_02_The_Birdmen_thee_michelle_gun_elephant.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "バードメン",
+      "artist": "thee michelle gun elephant",
+      "has_synced": false,
+      "path": "select/pl_03_バードメン_thee_michelle_gun_elephant.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "バードメン",
+      "artist": "thee michelle gun elephant",
+      "has_synced": false,
+      "path": "select/pl_04_バードメン_thee_michelle_gun_elephant.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "バードメン",
+      "artist": "thee michelle gun elephant",
+      "has_synced": false,
+      "path": "select/pl_05_バードメン_thee_michelle_gun_elephant.txt"
+    }
+  ]
+}
